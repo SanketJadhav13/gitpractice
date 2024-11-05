@@ -1,1 +1,1 @@
-## this file is crated in the github repo
+## this file is created in the github repo
